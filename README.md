@@ -97,11 +97,6 @@ const rjCoders = {
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rjcoders&theme=tokyonight&background=0A0F1C&ring=4ECDC4&fire=4A90E2&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=4ECDC4&sideNums=4A90E2&dates=FFFFFF&border=2C3E50)](https://git.io/streak-stats)
-
-</div>
 
 ## 🚀 Nuestro Proceso Probado
 
@@ -191,9 +186,7 @@ graph LR
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RJCoders-ia&repo=innovation-framework&theme=tokyonight&bg_color=0A0F1C&title_color=4ECDC4&text_color=FFFFFF&icon_color=4A90E2&border_color=2C3E50)](https://github.com/rjcoders/innovation-framework)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RJCoders-ia&repo=security-toolkit&theme=tokyonight&bg_color=0A0F1C&title_color=4ECDC4&text_color=FFFFFF&icon_color=4A90E2&border_color=2C3E50)](https://github.com/rjcoders/security-toolkit)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RJCoders-ia&repo=AI-Integration-Toolkit&theme=tokyonight&bg_color=0A0F1C&title_color=4ECDC4&text_color=FFFFFF&icon_color=4A90E2&border_color=2C3E50)](https://github.com/RJCoders-ia/AI-Integration-Toolkit)
 </div>
 
 ---
@@ -204,6 +197,6 @@ graph LR
 
 **Made with ❤️ by RJ Coders**
 
-[![Profile views](https://komarev.com/ghpvc/?username=rjcoders&label=Profile%20views&color=4A90E2&style=flat)](https://github.com/rjcoders)
+[![Profile views](https://komarev.com/ghpvc/?username=RJCoders-ia&label=Profile%20views&color=4A90E2&style=flat)](https://github.com/RJCoders-ia)
 
 </div>
